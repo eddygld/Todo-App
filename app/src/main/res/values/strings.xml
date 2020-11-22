@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todos_EDMUND_GLADAZAH</string>
+    <string name="addNewTodoBtn">ADD NEW TODO</string>
+    <string name="newTodoLabel">New Todo</string>
+    <string name="titleLabel">Title:</string>
+    <string name="titleInputHint">Title</string>
+    <string name="textLabel">Text</string>
+    <string name="inputHint">Contents</string>
+    <string name="isCompletedCbLabel">Completed</string>
+    <string name="uploadImageBtn">UPLOAD IMAGE</string>
+    <string name="saveBtn">SAVE</string>
+    <string name="todotitle">TodoTitle1</string>
+    <string name="todoContent">TodoContent1</string>
+    <string name="createdDate">Sun Mar 8:48 PM</string>
+</resources>
